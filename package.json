@@ -1,25 +1,25 @@
 {
-  "name": "@jgarber/component-name",
+  "name": "@jgarber/under-construction",
   "version": "0.1.0",
-  "description": "Describe <component-name> here…",
+  "description": "A Web Component that generates OSHA-compliant barricade tape.",
   "keywords": [
     "custom elements",
     "web components"
   ],
-  "homepage": "https://github.com/jgarber623/component-name",
-  "bugs": "https://github.com/jgarber623/component-name/issues",
+  "homepage": "https://github.com/jgarber623/under-construction",
+  "bugs": "https://github.com/jgarber623/under-construction/issues",
   "license": "MIT",
   "author": "Jason Garber <jason@sixtwothree.org> (https://sixtwothree.org)",
   "files": [
-    "component-name.js",
+    "under-construction.js",
     "example/*"
   ],
   "type": "module",
-  "main": "component-name.js",
+  "main": "under-construction.js",
   "directories": {
     "example": "example"
   },
-  "repository": "github:jgarber623/component-name",
+  "repository": "github:jgarber623/under-construction",
   "scripts": {
     "lint": "eslint .",
     "start": "npx http-server ."
