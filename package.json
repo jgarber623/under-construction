@@ -10,12 +10,12 @@
   "bugs": "https://github.com/jgarber623/under-construction/issues",
   "license": "MIT",
   "author": "Jason Garber <jason@sixtwothree.org> (https://sixtwothree.org)",
+  "type": "module",
   "files": [
     "under-construction.js",
     "example/*"
   ],
-  "type": "module",
-  "main": "under-construction.js",
+  "exports": "./under-construction.js",
   "directories": {
     "example": "example"
   },
