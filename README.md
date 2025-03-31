@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This project has moved to [codeberg.org/jgarber/under-construction](https://codeberg.org/jgarber/under-construction).
+
 # `<under-construction>` Web Component
 
 **A dependency-free [Web Component](https://developer.mozilla.org/en-US/docs/Web/API/Web_Components) that generates [OSHA](https://www.osha.gov)-compliant [barricade tape](https://en.wikipedia.org/wiki/Barricade_tape).**
